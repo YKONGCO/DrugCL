@@ -1,4 +1,4 @@
-# drugCL
+# DrugCL
 ## 1.Configuration Environment
 ```
 cd DrugCL
